@@ -10,7 +10,7 @@ git clone https://github.com/micardosofph/Prioriza---To-Do-List
 e abra o arquivo index.html
 
 Projeto desenvolvido por:
-João Carlos de Lima
-Maria Catarina Menegon Ferreira
-Maria Eduarda de Páscoa Carneiro
-Miguel Cardoso
+João Carlos de Lima <br>
+Maria Catarina Menegon Ferreira <br>
+Maria Eduarda de Páscoa Carneiro <br>
+Miguel Cardoso <br>
