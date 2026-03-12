@@ -20,7 +20,9 @@ Miguel Cardoso <br>
 
 ## Screenshot
 
-![screenshot](screenshotDEMO.png)
+<img width="956" height="435" alt="screenshotDEMO1" src="https://github.com/user-attachments/assets/33741ef5-a220-4d6e-aaaa-a90fecb1ebc4" />
+<img width="957" height="435" alt="screenshotDEMO2" src="https://github.com/user-attachments/assets/a2e30271-186b-404c-8563-273a471982a6" />
+<img width="959" height="436" alt="screenshotDEMO3" src="https://github.com/user-attachments/assets/3e5205ae-2271-4641-a463-24a82b5a14f6" />
 
 ## Tecnologias
 
