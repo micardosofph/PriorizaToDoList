@@ -32,7 +32,7 @@
 
 ## Desenvolvido por:
 
-- João Carlos de Lima
+- [João Carlos de Lima]([https://www.exemplo.com](https://github.com/joaocarlos-lima))
 - Maria Catarina Menegon Ferreira
 - Maria Eduarda de Páscoa Carneiro
 - Miguel Cardoso
