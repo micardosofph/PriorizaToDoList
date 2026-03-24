@@ -35,7 +35,7 @@
 - João Carlos de Lima (https://github.com/joaocarlos-lima)
 - Maria Catarina Menegon Ferreira (https://github.com/MaryCat2025)
 - Maria Eduarda de Páscoa Carneiro (https://github.com/mariaeduardadepascoa)
-- Miguel Cardoso
+- Miguel Cardoso (https://github.com/micardosofph)
 
 ## Como executar
 
