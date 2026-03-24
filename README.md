@@ -32,9 +32,9 @@
 
 ## Desenvolvido por:
 
-- [João Carlos de Lima]([https://www.exemplo.com](https://github.com/joaocarlos-lima))
-- Maria Catarina Menegon Ferreira
-- Maria Eduarda de Páscoa Carneiro
+- João Carlos de Lima (https://github.com/joaocarlos-lima)
+- Maria Catarina Menegon Ferreira (https://github.com/MaryCat2025)
+- Maria Eduarda de Páscoa Carneiro (https://github.com/mariaeduardadepascoa)
 - Miguel Cardoso
 
 ## Como executar
